@@ -72,7 +72,9 @@ RAZORPAY_KEY_SECRET=your_secret
 VITE_BACKEND_URL=https://prescripto-full-stack-pi4v.onrender.com
 VITE_CURRENCY=₹
 
-Project Structure
+```
+
+## 🏗️ Project Structure
 
 Prescripto-Full-Stack/
 │
@@ -93,26 +95,26 @@ Prescripto-Full-Stack/
 └── README.md
 
 
-Deployment Overview
+## 🚀 Deployment Overview
 
 -Backend hosted on Render — auto builds from GitHub and exposes a public API endpoint.
 -Frontend & Admin hosted on Vercel — environment variables configured securely for production.
 -CORS enabled for cross-origin API communication.
 
-Author
+## 👩‍💻 Author
 
-👩‍💻 Ankita Hati
+Ankita Hati
 B.Tech Computer Science & Engineering | KIIT University
 📍 Kolkata, India
 🌐 [GitHub](https://github.com/AnkitaHati)  [LinkedIn](https://www.linkedin.com/in/ankita-hati)
 
-Future Enhancements
+## 🌱 Future Enhancements
 
 -Doctor availability calendar sync
 -Email & SMS appointment reminders
 -Role-based dashboard analytics
 -Prescription PDF generator for patients
 
-Acknowledgement
+## 🙌 Acknowledgement
 
 This project was developed as part of a full-stack learning initiative and deployment exercise — showcasing end-to-end development, deployment, and integration skills across the MERN stack.

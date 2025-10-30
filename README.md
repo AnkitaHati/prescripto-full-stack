@@ -76,6 +76,7 @@ VITE_CURRENCY=₹
 
 ## 🏗️ Project Structure
 
+```env
 Prescripto-Full-Stack/
 │
 ├── backend/         # Node.js + Express API
@@ -94,27 +95,38 @@ Prescripto-Full-Stack/
 │
 └── README.md
 
+```
 
 ## 🚀 Deployment Overview
 
--Backend hosted on Render — auto builds from GitHub and exposes a public API endpoint.
--Frontend & Admin hosted on Vercel — environment variables configured securely for production.
--CORS enabled for cross-origin API communication.
+- **Backend** hosted on **Render** — auto builds from GitHub and exposes a public API endpoint.  
+- **Frontend & Admin** hosted on **Vercel** — environment variables configured securely for production.  
+- **CORS** enabled for cross-origin API communication.
+
+---
 
 ## 👩‍💻 Author
 
-Ankita Hati
-B.Tech Computer Science & Engineering | KIIT University
-📍 Kolkata, India
-🌐 [GitHub](https://github.com/AnkitaHati)  [LinkedIn](https://www.linkedin.com/in/ankita-hati)
+**Ankita Hati**  
+B.Tech Computer Science & Engineering | KIIT University  
+📍 Kolkata, India  
+
+🌐 [GitHub](https://github.com/AnkitaHati)  
+🔗 [LinkedIn](https://www.linkedin.com/in/ankita-hati)
+
+---
 
 ## 🌱 Future Enhancements
 
--Doctor availability calendar sync
--Email & SMS appointment reminders
--Role-based dashboard analytics
--Prescription PDF generator for patients
+- Doctor availability calendar sync  
+- Email & SMS appointment reminders  
+- Role-based dashboard analytics  
+- Prescription PDF generator for patients  
 
-## 🙌 Acknowledgement
+---
 
-This project was developed as part of a full-stack learning initiative and deployment exercise — showcasing end-to-end development, deployment, and integration skills across the MERN stack.
+## 🙌 Acknowledgement  
+
+This project was developed as part of a full-stack learning initiative and deployment exercise — showcasing end-to-end development, deployment, and integration skills across the **MERN stack**.  
+
+---
